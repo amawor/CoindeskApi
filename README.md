@@ -1,4 +1,6 @@
-# H2 DB console
+# Coindesk API
+
+## H2 DB console
 url: http://localhost:8080/h2-console
 ```
 Driver Class:	org.h2.Driver
