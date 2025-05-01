@@ -1,4 +1,5 @@
 # Coindesk API
+透過呼叫 Coindesk API，將匯率資料更新至本地資料庫中。專案使用 Spring Boot 開發，並支援幣別資料的 CRUD 操作。
 
 ## H2 DB console
 url: http://localhost:8080/h2-console
@@ -9,7 +10,6 @@ User Name:	sa
 Password:	
 ```
 
-此專案為一個提供幣別資料及匯率更新功能的 API，透過呼叫 Coindesk API，將匯率資料更新至本地資料庫中。專案使用 Spring Boot 開發，並支援幣別資料的 CRUD 操作。
 
 ## 初始化 SQL
 
